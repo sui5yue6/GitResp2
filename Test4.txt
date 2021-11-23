@@ -1,0 +1,8 @@
+aaa 666
+test4
+<<<<<<< HEAD
+test4
+add to master branch
+=======
+test4
+>>>>>>> branch01
